@@ -1,0 +1,13 @@
+{
+  "viewer": "Viewer",
+  "text": "Text",
+  "format": "Format",
+  "clear": "Clear",
+  "compact": "Compact",
+  "language": "Language",
+  "theme": "Theme",
+  "copy": "Copy",
+  "pleaseInsertJson": "Please enter JSON text first!",
+  "invalidJson": "Invalid JSON:",
+  "copied": "Text copied to clipboard!"
+}
